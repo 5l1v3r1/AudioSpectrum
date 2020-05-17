@@ -1,4 +1,4 @@
-# AudioSpectrum
+# AudioSpectrum.py
 Audio spectrum with Python3
 
 # Installation:
