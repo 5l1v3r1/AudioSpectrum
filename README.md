@@ -7,4 +7,4 @@ Audio spectrum with Python3
 - python3 AudioSpectrum.py
 
 
-# Better readme.md page coming later!
+# Better readme.md page coming soon!
